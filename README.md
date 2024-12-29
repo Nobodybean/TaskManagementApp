@@ -42,7 +42,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 Clone the project from GitHub to your local machine:
 ```bash
-git clone <[your-repository-url](https://github.com/Nobodybean/TaskManagementApp.git)>
+git clone <(https://github.com/Nobodybean/TaskManagementApp.git)>
 cd TaskManagerApp
 ```
 
