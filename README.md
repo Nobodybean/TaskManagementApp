@@ -1,4 +1,4 @@
-# TaskManagerApp
+# TaskManagementApp
 
 ## Overview
 TaskManagerApp is a full-stack web application designed to manage and track tasks. This project is built using **React** for the frontend and **Spring Boot** for the backend. The frontend provides a user-friendly interface, while the backend handles data processing and management.
